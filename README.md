@@ -44,4 +44,4 @@ In short, include jQuery 1.7+ and VideoBumpers.js in your layout, tell VideoBump
 ```
 
 ## Credits
-@kieranmasterton
+[@kieranmasterton](http://twitter.com/kieranmasterton)
