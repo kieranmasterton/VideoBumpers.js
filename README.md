@@ -43,5 +43,9 @@ In short, include jQuery 1.7+ and VideoBumpers.js in your layout, tell VideoBump
 </div>
 ```
 
+## License
+
+Released under the WTFPL license - http://www.wtfpl.net/
+
 ## Credits
 [@kieranmasterton](http://twitter.com/kieranmasterton)
