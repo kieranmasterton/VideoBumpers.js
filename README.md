@@ -18,7 +18,7 @@ Include jQuery 1.7+ and jquery.videobumpers.js in your layout and target your vi
       };
 	
     // Target your .container, .wrapper, .post, etc.
-    $("#element-containing-videos").videoBumpers();
+    $("#element-containing-videos").videoBumpers(options);
   });
 </script>
 ```
