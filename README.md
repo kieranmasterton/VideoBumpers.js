@@ -36,9 +36,9 @@ In short, include jQuery 1.7+ and VideoBumpers.js in your layout and target your
 ```html
 <div id="element-containing-video">
 	<video width="480" height="272" controls>
-		<source src="videos/88mph.mp4" type="video/mp4" />
-		<source src="videos/88mph.webm" type="video/webm" />
-		<source src="videos/88mph.ogv" type="video/ogg" />
+		<source src="videos/my-cat-video.mp4" type="video/mp4" />
+		<source src="videos/my-cat-video.webm" type="video/webm" />
+		<source src="videos/my-cat-video.ogv" type="video/ogg" />
 	</video>
 </div>
 ```
