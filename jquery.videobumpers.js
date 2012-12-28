@@ -1,3 +1,13 @@
+/*
+ * VideoBumpers.js
+ *
+ * @author        Kieran Masterton
+ * @copyright     (c) 2012 Kieran Masterton
+ * @version 0.0.1
+ * @requires jQuery
+ * Released under the WTFPL license - http://www.wtfpl.net/
+ */
+
 (function ($) {
 
     $.fn.videoBumpers = function (options) {
