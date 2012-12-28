@@ -2,7 +2,7 @@
 An easy-to-use jQuery plugin for adding in and out bumpers to HTML5 video.
 
 ## How Do I Use It?
-Include jQuery 1.7+ and jquery.videobumpers.js in your layout and target your video's container with `videoBumpers()`. Here's the basics:
+In short, include jQuery 1.7+ and VideoBumpers.js in your layout and target your video's container with `videoBumpers()`. For those looking for more detail, here's a quick run down to get you started:
 
 1. Create your ogv, webm and mp4 files. Make sure they all have the same file name for example my-cat-video.ogv, my-cat-video.mp4, my-cat-video.webm and place them together in a folder.
 2. Do the same for you in and out bumper videos.
